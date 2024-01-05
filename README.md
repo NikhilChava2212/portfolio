@@ -12,4 +12,4 @@ This website contains all my projects including their codes as well as display w
 
 ## Connect with me
 
-If you have any feedback or want to connect with me, please reach out to me at viwinofficial2002@gmail.com
+If you have any feedback or want to connect with me, please reach out to me at nikhil.chava222@gmail.com
