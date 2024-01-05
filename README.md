@@ -1,6 +1,6 @@
 ## This is my personal portfolio.
 
-Hosted link: https://viwin-portfolio.vercel.app/
+Hosted link: https://portfolio-nikhil-chavas-projects.vercel.app/
 
 This website contains all my projects including their codes as well as display websites.
 
